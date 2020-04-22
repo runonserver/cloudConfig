@@ -9,7 +9,7 @@ spring:
   application:
     name: springCloudConfig-dev
 config:
-  info: 'I am dev 3'
+  info: 'I am dev 4'
     
 ---
 spring:
@@ -18,4 +18,4 @@ spring:
     name: springCloudConfig-test
 
 config:
-  info: 'I am test 3'
+  info: 'I am test 4'
