@@ -8,9 +8,14 @@ spring:
   profiles: dev
   application:
     name: springCloudConfig-dev
+config:
+  info: 'I am dev'
     
 ---
 spring:
   profiles: test
   application:
     name: springCloudConfig-test
+
+config:
+  info: 'I am test'
