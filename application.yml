@@ -9,7 +9,7 @@ spring:
   application:
     name: springCloudConfig-dev
 config:
-  info: 'I am dev'
+  info: 'I am dev 2'
     
 ---
 spring:
