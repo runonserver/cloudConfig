@@ -18,4 +18,4 @@ spring:
     name: springCloudConfig-test
 
 config:
-  info: 'I am test 10'
+  info: 'I am test 11'
